@@ -6,14 +6,14 @@
 
 # Лабораторные
 
-## [Бэкенд](https://github.com/rasulov1337/kilogram-backend)
+## [Бэкенд](https://github.com/mimifrau/RIP_Backend)
 
 -   [SSR (лаб 1)](https://github.com/mimifrau/RIP_Backend/tree/SSR)
 -   [База данных (лаб 2)](https://github.com/mimifrau/RIP_Backend/tree/ORM)
 -   [Веб-сервис REST-API (лаб 3)](https://github.com/mimifrau/RIP_Backend/tree/DRF)
 -   [Аутентификация и авторизация (лаб 4)](https://github.com/mimifrau/RIP_Backend/tree/Auth)
 
-## [Фронтенд](https://github.com/rasulov1337/kilogram-frontend)
+## [Фронтенд](https://github.com/mimifrau/RIP_Frontend)
 
 -   [SPA (лаб 5)](https://github.com/mimifrau/RIP_Frontend/tree/SPA)
 -   [Redux, адаптивность & PWA (лаб 6)](https://github.com/mimifrau/RIP_Frontend/tree/Redux)
