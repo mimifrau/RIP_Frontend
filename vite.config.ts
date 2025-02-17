@@ -27,7 +27,7 @@ const manifestForPlugin: Partial<VitePWAOptions> = {
 };
 
 export default defineConfig({
-    base: "/frontend",
+    base: "/RIP_Frontend",
     plugins: [
         react(),
         tsconfigPaths(),
